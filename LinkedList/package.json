@@ -1,0 +1,5 @@
+{
+    "name": "LinkedList",
+    "main": "index.js",
+    "type": "module"
+}
